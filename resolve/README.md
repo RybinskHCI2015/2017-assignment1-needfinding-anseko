@@ -7,6 +7,7 @@ Project Description.txt содержит описание проекта и пе
 # Тестирование 
 Тестирование проводилось на базе Google Форм.
 Ссылка на саму форму: https://goo.gl/forms/LkoKExBgOYVBs6O32
+
 Ссылка на результат тестирования с наглядными графиками:
 https://docs.google.com/spreadsheets/d/1W4megv4iwoUy6nrLR2q3oOtOgw5z27kqI3dW25Mym8o/edit?usp=sharing
 
