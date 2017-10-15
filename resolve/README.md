@@ -9,7 +9,9 @@ Project Description.txt содержит описание проекта и пе
 #
 Ссылка на саму форму: https://goo.gl/forms/LkoKExBgOYVBs6O32
 #
-Ссылка на результат тестирования: https://docs.google.com/spreadsheets/d/1W4megv4iwoUy6nrLR2q3oOtOgw5z27kqI3dW25Mym8o/edit?usp=sharing
+Ссылка на результат тестирования с наглядными графиками:
+
+https://docs.google.com/spreadsheets/d/1W4megv4iwoUy6nrLR2q3oOtOgw5z27kqI3dW25Mym8o/edit?usp=sharing
 
 Как видно из результатов, тестирование охватывает почти все возраста пользователей.
 Также видно чему отдают предпочтение пользователи и что из выделенных факторов является для них решающим, а что нет.
